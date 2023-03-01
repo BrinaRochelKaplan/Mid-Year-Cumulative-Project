@@ -1,0 +1,5 @@
+#ignore all __pycache__ files
+*.pyc
+
+#ignore db_info.py
+db_info.py
